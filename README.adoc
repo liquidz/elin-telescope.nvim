@@ -1,0 +1,17 @@
+= elin plugin for telescope.nvim
+
+== Installation
+
+.vim-plug
+[source,vim]
+----
+Plug 'nvim-telescope/telescope-ui-select.nvim'
+Plug 'liquidz/elin-telescope.nvim'
+----
+
+.dein
+[source,vim]
+----
+call dein#add('nvim-telescope/telescope-ui-select.nvim')
+call dein#add('liquidz/elin-telescope.nvim')
+----

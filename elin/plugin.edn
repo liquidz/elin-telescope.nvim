@@ -1,0 +1,3 @@
+{:name "elin plugin for telescope.nvim"
+ :export {:interceptor {:uses [elin.interceptor.quickfix/location-function-hook
+                               {:function ["luaeval" ["require('telescope.builtin').loclist()"]]}]}}}
