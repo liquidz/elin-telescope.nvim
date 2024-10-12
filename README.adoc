@@ -1,6 +1,6 @@
 = elin-telescope.nvim
 
-https://github.com/liquidz/elin[elin] plugin for telescope.nvim
+https://github.com/liquidz/elin[liquidz/elin] plugin for telescope.nvim
 
 == Installation
 
